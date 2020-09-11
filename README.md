@@ -1,8 +1,6 @@
 # VUT FIT IZP
 
-Projekty do předmětu Základy programování na VUT FIT
-
-1. semestr, zima
+Projekty do předmětu Základy programování na VUT FIT 1. semestr, zima
 
 Projekt 1 - Počítání slov
 
